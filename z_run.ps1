@@ -1,0 +1,1 @@
+docker run -d -p 8888:8888 -e JUPYTER_TOKEN="root" -w /home/jovyan/work -v A:\Projects\data-analysis:/home/jovyan/work local-py-env
