@@ -1,8 +1,8 @@
 # variables.py
 class AppVars:
     __store_name = 'Marikina'
-    __start_date = '2024-01-01'
-    __end_date = '2025-01-01'
+    __start_date = '1990-01-01'
+    __end_date = '2024-01-01'
 
     @property
     def STORE_NAME(self):
