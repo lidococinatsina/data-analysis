@@ -1,4 +1,4 @@
 .idea
 assets/
-outputs/
+output/
 .env
