@@ -1,0 +1,1 @@
+docker run -d -p 8888:8888 -e JUPYTER_TOKEN="root" -w /home/jovyan/work -v "${PWD}:/home/jovyan/work" image-processing-env
